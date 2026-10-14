@@ -1,0 +1,27 @@
+*{
+    background-color:red;
+}
+#hello{
+    color:red;
+}
+.hello{
+    color:blue;
+}
+h1{
+    color:yellow;
+}
+.one{
+    color:purple;
+}
+h1,p{
+    color:green
+}
+h1{
+    color:orange;
+}
+p{
+    color:yellowgreen
+}
+#onep{
+    color:blueviolet;
+}
